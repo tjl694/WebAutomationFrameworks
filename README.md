@@ -6,3 +6,8 @@ Ideas for frameworks:
 * PyTest
 * Selenium
 * Appium
+
+
+Useful websites for testing:
+* https://practicetestautomation.com/practice/
+* https://www.automationexercise.com/test_cases
